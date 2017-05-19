@@ -2,7 +2,7 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
-*.VC.db
+*.VC.db*
 *.opensdf
 *.opendb
 *.sdf
